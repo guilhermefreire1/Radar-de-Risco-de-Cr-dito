@@ -124,7 +124,7 @@ Todos os alertas são armazenados no arquivo `logs/alertas.txt`.
 
 ---
 
-## 📈 Prints da Dashboard (opcional)
+## 📈 Prints da Dashboard
 
 ## 📸 Visão Geral da Dashboard
 
