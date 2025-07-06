@@ -135,7 +135,6 @@ Todos os alertas são armazenados no arquivo `logs/alertas.txt`.
 **Guilherme Freire**  
 Desenvolvedor Python | Engenharia de Dados | Automação & RPA  
 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-[GitHub](https://github.com/seu-usuario)
 
 ---
 
