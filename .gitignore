@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+.venv/
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados
+/data/raw/
+/data/processed/
+/db/*.db
+/logs/
+
+# Outros
+*.log
+*.zip
+*.rar
+*.tar.gz
+*.egg-info/
+.DS_Store
+Thumbs.db
+
+# Não versionar arquivos do sistema
+/Ambiente de Impressão/
+/Ambiente de Rede/
+/Configurações Locais/
+/Cookies/
+/Dados de Aplicativos/
+/Menu Iniciar/
+/Meus Documentos/
+/Modelos/
+/Recent/
+/SendTo/
