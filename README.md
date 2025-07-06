@@ -126,9 +126,9 @@ Todos os alertas são armazenados no arquivo `logs/alertas.txt`.
 
 ## 📈 Prints da Dashboard (opcional)
 
-> _Adicione aqui prints da interface da Streamlit para melhorar a apresentação do GitHub._
+## 📸 Visão Geral da Dashboard
 
----
+![Dashboard com filtros e gráfico](images/dashboard_visao_geral.png)
 
 ## 👨‍💻 Autor
 
